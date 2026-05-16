@@ -1,0 +1,8 @@
+.box{
+    width: 300px;
+    background: lightblue;
+    padding: 20px;
+}
+body{
+    background-color: rgb(209, 166, 166);
+}
